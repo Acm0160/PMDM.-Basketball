@@ -12,7 +12,7 @@ En el centro de la pantalla puse una imagen de una pelota de baloncesto (basketb
 <img width="398" height="887" alt="image" src="https://github.com/user-attachments/assets/743e79be-04fb-4390-86c3-68d7a5443bab" />
 
 
-Captura 2 – Suma y resta de puntos en funcionamiento
+– Suma y resta de puntos en funcionamiento
 <img width="398" height="307" alt="image" src="https://github.com/user-attachments/assets/83f4adf3-d83e-40bf-a31e-f2f45113813d" />
 
 
